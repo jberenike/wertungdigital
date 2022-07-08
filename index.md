@@ -13,10 +13,10 @@
 - Dr. Maria Kraxenberger (Stuttgart)
 
 ### Details
-Themenbereich 2: Phänomenorientierte Zugänge 
-Panel 2.53 Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen
-Raum C5.206
-Montag 26.09.22 1400–1600 Uhr
+- Themenbereich 2: Phänomenorientierte Zugänge 
+- Panel 2.53 
+- Raum C5.206
+- Montag 26.09.22, 1400–1600 Uhr
 
 ### Beschreibung des Panels
 Millionen von User*innen bewerten heute über eine Vielzahl digitaler Apps und Internet-Plattformen literarische Bücher und Geschichten. Die Bandbreite reicht von Vergabe von Sternchen und Likes über ausführliche Rezensionen bis zur Weiter- und Umschreibung bekannter Geschichten in der Fan Fiction. Dabei erfahren gerade die nicht-eindeutigen Wertungen, also Wertungshandlungen, die eine Mittelposition zwischen den evaluativen Polen einnehmen, im digitalen Raum eine bisher unbekannte – und nur wenig beachtete – Dimension. Der digitale Raum eröffnet hier eine neue Art literaturkritischer Wertungshaltung abseits der funktionalen Prämissen einer professionellen Literaturkritik, wobei nicht-eindeutige Wertungen ein quasi-privates, differenziertes Ab-
