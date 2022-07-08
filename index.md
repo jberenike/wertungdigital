@@ -1,9 +1,5 @@
 ## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ auf dem 27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
 
-![stars](./assets/pics/anna-tukhfatullina-food-photographer-stylist-P559qKtbcno-unsplash.jpg)
-
-pic by anna tukhfatullina on unsplash
-
 ### Abstracts
 
 - [Abstract Thomas Ernst](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_ernst)
