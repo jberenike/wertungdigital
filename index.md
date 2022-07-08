@@ -23,7 +23,7 @@ Millionen von User*innen bewerten heute über eine Vielzahl digitaler Apps und I
 wägen von Schwächen und Stärken des bewerteten Textes, aber auch die Exploration des Wertungsvorgangs selbst ermöglichen. Beispiele sind die Verwendung ordinaler Mittelpositionen („drei von fünf Sternen“) ebenso wie ambivalente Besprechungen, die sowohl positive als auch negative Aspekte eines Werkes nebeneinanderstellen, oder transformative Fan Fiction, die ausgewählte Aspekte von Quelltexten aufgreift und weiterverwendet, andere hingegen nicht berücksichtigt.
 Das Panel hat zum Ziel, anhand ausgewählter intradisziplinärer germanistischer Zugänge und konkreter Fallbeispiele das Phänomen der nicht-eindeutigen literarischen Wertung unter den Vorzeichen der digitalen Transformation näher zu beleuchten. Zentral scheinen hier sowohl die zugrundeliegenden Axiome auf inhaltlicher, formaler und wirkungsbezogener Wertungsebene und deren sprachliche Äußerung, als auch Aspekte des sozialen Handelns – etwa die soziale Funktion der zumeist peer-gestützten wreader-Communities und Plattformen. Gerade der Vollzug nicht-eindeutiger Wertungen scheint durch Inhalt, Form und Funktion besonders nachhaltige Partizipationsmöglichkeiten am Diskurs über Literatur zu ermöglichen.
 
-### Ablauf
+### vorläufiger Ablauf
 
 Prof. Dr. Berenike Herrmann (Bielefeld), Dr. Maria Kraxenberger (Stuttgart): Einführung:
 Nicht-eindeutige Wertung von Literatur im Digitalen Raum
