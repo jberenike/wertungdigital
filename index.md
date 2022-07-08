@@ -1,37 +1,44 @@
-## Wilkommen zum Panel 
+## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ auf dem 27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
 
-You can use the [editor on GitHub](https://github.com/jberenike/wertungdigital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstracts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Abstract Thomas Ernst](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_ernst)
+[Abstract Anna Moskvina und Kirstina Petzold](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_moskvina_petzold)
+[Abstract Sandra Richter](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_Richter)
+[Abstract Simone Winko](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_winko)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Organisatorinnen
+- Prof. Dr. Berenike Herrmann (Bielefeld)
+- Dr. Maria Kraxenberger (Stuttgart)
 
-```markdown
-Syntax highlighted code block
+### Details
+Themenbereich 2: Phänomenorientierte Zugänge 
+Panel 2.53 Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen
+Raum C5.206
+Montag 26.09.22 1400–1600 Uhr
 
-# Header 1
-## Header 2
-### Header 3
+### Beschreibung des Panels
+Millionen von User*innen bewerten heute über eine Vielzahl digitaler Apps und Internet-Plattformen literarische Bücher und Geschichten. Die Bandbreite reicht von Vergabe von Sternchen und Likes über ausführliche Rezensionen bis zur Weiter- und Umschreibung bekannter Geschichten in der Fan Fiction. Dabei erfahren gerade die nicht-eindeutigen Wertungen, also Wertungshandlungen, die eine Mittelposition zwischen den evaluativen Polen einnehmen, im digitalen Raum eine bisher unbekannte – und nur wenig beachtete – Dimension. Der digitale Raum eröffnet hier eine neue Art literaturkritischer Wertungshaltung abseits der funktionalen Prämissen einer professionellen Literaturkritik, wobei nicht-eindeutige Wertungen ein quasi-privates, differenziertes Ab-
+wägen von Schwächen und Stärken des bewerteten Textes, aber auch die Exploration des Wertungsvorgangs selbst ermöglichen. Beispiele sind die Verwendung ordinaler Mittelpositionen („drei von fünf Sternen“) ebenso wie ambivalente Besprechungen, die sowohl positive als auch negative Aspekte eines Werkes nebeneinanderstellen, oder transformative Fan Fiction, die ausgewählte Aspekte von Quelltexten aufgreift und weiterverwendet, andere hingegen nicht berücksichtigt.
+Das Panel hat zum Ziel, anhand ausgewählter intradisziplinärer germanistischer Zugänge und konkreter Fallbeispiele das Phänomen der nicht-eindeutigen literarischen Wertung unter den Vorzeichen der digitalen Transformation näher zu beleuchten. Zentral scheinen hier sowohl die zugrundeliegenden Axiome auf inhaltlicher, formaler und wirkungsbezogener Wertungsebene und deren sprachliche Äußerung, als auch Aspekte des sozialen Handelns – etwa die soziale Funktion der zumeist peer-gestützten wreader-Communities und Plattformen. Gerade der Vollzug nicht-eindeutiger Wertungen scheint durch Inhalt, Form und Funktion besonders nachhaltige Partizipationsmöglichkeiten am Diskurs über Literatur zu ermöglichen.
 
-- Bulleted
-- List
+### Ablauf
 
-1. Numbered
-2. List
+Prof. Dr. Berenike Herrmann (Bielefeld), Dr. Maria Kraxenberger (Stuttgart): Einführung:
+Nicht-eindeutige Wertung von Literatur im Digitalen Raum
 
-**Bold** and _Italic_ and `Code` text
+Anna Moskvina (Hildesheim), Kristina Petzold (Bielefeld): „Einfach klasse!“ – Eine kor-
+puslinguistische Analyse zur Eindeutigkeit von digitalen rezensiven Texten auf Ama-
+zon.de und Buechertreff.de
 
-[Link](url) and ![Image](src)
-```
+Prof. Dr. Sandra Richter (Marbach, Stuttgart): Nicht-eindeutiges Erleben und Bewerten
+von kanonischer Literatur im Digitalen Raum
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Prof. Dr. Simone Winko (Göttingen): Ausgewogen, anschlussfähig, unentschieden? Zum
+Begriff der nicht-eindeutigen Wertung und zur Vielfalt uneindeutiger Wertungen in
+der digitalen Kommunikation über Literatur
 
-### Jekyll Themes
+Prof. Dr. Thomas Ernst (Antwerpen): Memes und Mojo: Mehrwerte für die Online-
+Literaturkritik? Zur Messbarkeit uneindeutiger Wertungen in Sozialen Medien
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jberenike/wertungdigital/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
