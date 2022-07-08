@@ -2,10 +2,10 @@
 
 ### Abstracts
 
-[Abstract Thomas Ernst](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_ernst)
-[Abstract Anna Moskvina und Kirstina Petzold](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_moskvina_petzold)
-[Abstract Sandra Richter](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_Richter)
-[Abstract Simone Winko](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_winko)
+- [Abstract Thomas Ernst](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_ernst)
+- [Abstract Anna Moskvina und Kirstina Petzold](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_moskvina_petzold)
+- [Abstract Sandra Richter](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_Richter)
+- [Abstract Simone Winko](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_winko)
 
 
 ### Organisatorinnen
