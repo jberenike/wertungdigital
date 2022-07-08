@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Wilkommen zum Panel 
 
 You can use the [editor on GitHub](https://github.com/jberenike/wertungdigital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
