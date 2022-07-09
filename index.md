@@ -3,7 +3,9 @@ layout: default
 title: home
 ---
 
-## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ auf dem 27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
+## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ 
+
+27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
 
 ### Abstracts
 
