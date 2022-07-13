@@ -3,16 +3,20 @@ layout: default
 title: home
 ---
 
+![](images/header3.png)
+
+[home](index.md) | [abstract Ernst](abstract_ernst.md) | [abstract Winko](abstract_winko.md) | [Abstract Moskvina & Petzold](abstract.md) | [Abstract Richter](abstract_richter.md)
+
 ## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ 
 
 27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
 
 ### Abstracts
 
-- [Abstract Thomas Ernst](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_ernst)
-- [Abstract Anna Moskvina und Kirstina Petzold](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_moskvina_petzold)
-- [Abstract Sandra Richter](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_Richter)
-- [Abstract Simone Winko](https://github.com/jberenike/wertungdigital/blob/gh-pages/abstract_winko)
+- [Abstract Thomas Ernst](abstract_ernst.md)
+- [Abstract Anna Moskvina und Kirstina Petzold](abstract_moskvina_petzold.md)
+- [Abstract Sandra Richter](abstract_Richter.md)
+- [Abstract Simone Winko](abstract_winko.md)
 
 
 ### Organisatorinnen
